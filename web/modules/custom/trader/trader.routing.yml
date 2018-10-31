@@ -1,0 +1,9 @@
+trader.settings_form:
+  path: '/admin/config/trader/settings'
+  defaults:
+    _form: '\Drupal\trader\Form\TraderForm'
+    _title: 'Set your trades'
+  requirements: 
+    _role: 'administrator'
+  options:
+    _admin_route: TRUE

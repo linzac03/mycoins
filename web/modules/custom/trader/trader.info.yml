@@ -1,0 +1,6 @@
+name: Crypto Trader
+description: Automates trading of crypto currencies
+package: Custom
+
+type: module
+core: 8.x
